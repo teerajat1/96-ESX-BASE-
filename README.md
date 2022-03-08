@@ -3,7 +3,7 @@
 
 - INSTALATION VIDEO: 
 Not harder, just be carefoul with the db username and root. Install XAMPP and HeidiSQL.
-
+Very fast tutorial any dute on my discord:
 https://youtu.be/oMpLJ59c_go
 
 -Discord:
